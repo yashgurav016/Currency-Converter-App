@@ -42,7 +42,7 @@ A lightweight, real-time currency converter built with **HTML, CSS and vanilla J
 ## Project Structure
 
 ```
-currency-converter/
+Currency-Converter-App/
 ├── index.html      # Page markup
 ├── style.css       # Styles and animations
 ├── countries.js    # Currency code → country code mapping (for flags)
@@ -56,11 +56,11 @@ No installation or build step is required.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/currency-converter.git
+   git clone https://github.com/yashgurav016/Currency-Converter-App.git
    ```
 2. **Open the project folder**
    ```bash
-   cd currency-converter
+   cd Currency-Converter-App
    ```
 3. **Run the app**
    Open `index.html` in any modern browser, or use a local server such as the VS Code *Live Server* extension.
@@ -122,8 +122,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-**Your Name**
-GitHub: [@your-username](https://github.com/your-username)
+**Yash Gurav**
+GitHub: [@yashgurav016](https://github.com/yashgurav016)
 
 ---
 
